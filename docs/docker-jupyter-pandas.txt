@@ -1,0 +1,1 @@
+docker run -d --name jupyter -p 8888:8888 -v ~/tempnow_analytic/:/opt playniuniu/jupyter-pandas

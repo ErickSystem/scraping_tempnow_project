@@ -1,0 +1,171 @@
+// Variables
+$white: #fff
+$gainsboro-light: #F8FAFC
+$gray: #6f7f86
+$gray-light: #aab7c4
+$gray-light-extra: #d1dde2
+$blue: #00aeef
+$blue-dark: #0d6ea5
+$blue-light: #f2f6fa
+$bg-dash: #f2f6fa
+$bg-box: #f8fafc
+$red: #fa6e6e
+$green: #93d072
+$green-light: #4bf9dd
+$green-dark: #4c862d
+$yellow: #ffba60
+$yellow-dark: #FEBA4D
+
+html, body
+	width: 100%
+	height: 100%
+	font-family: 'blogger_sansregular', sans-serif
+	background-color: $bg-dash
+.btn:hover
+	color: #fff
+.home
+	width: 100vw
+	height: 100vh
+	background: gray
+	background-size: cover
+
+#mask
+	width: 100vw
+	height: 100vw
+	position: absolute
+	top: 0
+	left: 0
+	background: rgba(255, 255, 255, 0.7)
+	z-index: 9997
+
+.mt20
+	margin-top: 20px
+
+.positive
+	color: $green
+.negative
+	color: $red
+
+.add-button
+	width: 40px
+	height: 40px
+	background: $blue
+	border-radius: 50%
+	svg
+		float: none!important
+		margin: 5px auto 0!important
+		path
+			fill: $white!important
+
+.bt
+	padding: 10px 30px
+	margin: 0 -15px 15px 15px
+	color: $white
+	font-size: 16px
+	text-align: center
+	border-radius: 50px
+	background-color: $blue
+	&:disabled
+		background-color: $gray-light-extra
+		opacity: .3
+		cursor: not-allowed
+
+form
+  ::-webkit-input-placeholder
+    color: $gray-light
+  :-moz-input-placeholder
+    color: $gray-light
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9
+	padding: 0 15px
+
+.anychart-credits,
+.highcharts-credits
+	display: none
+
+.tooltip
+	.tooltip-inner
+		letter-spacing: 1px
+		//background-color: #6e7f85
+		padding: 5px 25px
+		color: #fff
+		font-weight: 100
+	&.left
+		.tooltip-arrow
+			border-left-color: #6e7f85
+
+
+
+.multiselect-native-select
+	select
+		display: none
+	.multiselect-container
+		input[type="checkbox"]
+			display: none
+
+
+
+.box-element
+	width: 100%
+	float: left
+	margin-bottom: 20px
+	padding: 20px
+	border-radius: 3px
+	background-color: $white
+	box-shadow: 0 0px 10px $gray-light-extra
+
+.flow-page
+	.in-out-bar
+		display: none
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark
+	right: inherit
+	left: 0
+
+
+.bootstrap-select .dropdown-toggle:focus
+	outline: none!important
+
+.separator
+	border-bottom: 1px solid $gray-light-extra
+	margin: 5px auto
+	width: 100%
+
+.toggle-container
+	.react-toggle-track
+		background-color: $bg-dash
+		border: 2px solid #fff
+		height: 32px
+		width: 58px
+	.react-toggle-thumb
+		border-color: $gray-light-extra
+		width: 30px
+		height: 30px
+		box-shadow: 0 0 10px $gray-light
+
+	.react-toggle:hover:not(.react-toggle--disabled)
+		.react-toggle-track
+			background-color: #fff
+	.react-toggle--checked,
+	.react-toggle--checked:hover:not(.react-toggle--disabled)
+		.react-toggle-track
+			background-color: $green-light
+
+	.react-toggle--focus,
+	.react-toggle-thumb
+		border-color: $gray-light-extra
+
+	.react-toggle--checked
+		.react-toggle-thumb
+			border-color: $green-light
+
+	.react-toggle--focus
+		.react-toggle-thumb
+			box-shadow: 0 0 2px 3px #fff
+
+
+// Responsive
+@media screen and (max-width: 820px)
+	.menu-dash
+		&.opened
+			left: -30px

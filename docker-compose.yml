@@ -1,0 +1,40 @@
+version: '2.4'
+services:
+  database:
+    extends:
+        file: ./build/database_docker/docker-compose.yml
+        service: database
+    volumes:
+        - './build/database_docker/configs/mysql/scripts/data.sh:/usr/local/bin/data.sh:ro'
+        - './build/database_docker/backups/mysql:/backup:ro'
+
+  api_python:
+    build: ./build/tempnow_api_python
+    env_file:
+        - ./envs/tempnow_api_python.env
+    ports:
+        - 5000:80
+    volumes:
+        - './build/tempnow_api_python/src:/app'
+    networks:
+        - backend_api
+    depends_on:
+        - database
+
+  api_node:
+    image: node:6.5.0-onbuild
+    command: npm run dev
+    env_file:
+        - ./envs/tempnow_api_nodejs.env
+    ports:
+        - 3001:3000
+    volumes:
+        - './build/tempnow_api_nodejs/api:/usr/src/app'
+    networks:
+        - backend_api
+    depends_on:
+        - database
+
+networks:
+  backend_api:
+      name: tempnow_backend

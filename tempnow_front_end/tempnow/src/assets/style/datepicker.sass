@@ -1,0 +1,18 @@
+.daterangepicker
+  position: absolute
+  top: 10%!important
+  left: 50%!important
+  margin-left: -300px
+  z-index: 9999!important
+  &:after,
+  &:before
+    display: none!important
+  .ranges
+    li
+      color: #000
+      padding: 6px 8px
+      &:hover
+        color: #FFF
+@media screen and (max-width: 560px)
+  .daterangepicker
+    margin-left: -135px

@@ -1,0 +1,104 @@
+.nav
+    width: 300px
+    height: 100%
+    min-height: 1200px
+    background-color: $white
+    position: absolute
+    top: 0
+    left: -1000px
+    z-index: 9999
+    box-shadow: 0 0px 10px $gray-light-extra
+    transition: all .3s
+    &.opened
+        left: -15px
+        opacity: 1
+    em
+        position: absolute
+        bottom: 10px
+        left: 50%
+        margin-left: -30px
+        font-size: 14px
+        color: $gray-light
+    .logo
+        width: 150px
+        display: block
+        margin: 30px auto
+
+
+    .close-menu
+        position: absolute
+        top: 10px
+        right: 10px
+        path
+            fill: $gray-light-extra
+
+    .menu-profile
+        width: 100%
+        padding: 20px 0
+        position: relative
+        float: left
+        border-top: 1px solid $gray-light-extra
+        img
+            display: block
+            margin: 0px auto 10px
+            border-radius: 50%
+            padding: 7px
+            background-color: $white
+            box-shadow: 0 0px 10px $gray-light-extra
+
+        .icon-edit-profile
+            position: absolute
+            top: 10px
+            right: 10px
+            path
+                fill: $gray-light-extra
+
+        .name-user
+            font-size: 14px
+            font-weight: 400
+            text-align: center
+            color: $gray
+
+    nav
+        ul
+            width: 100%
+            float: left
+            margin: 0
+            padding: 20px 0
+            border-top: 1px solid $gray-light-extra
+            li
+                width: 90%
+                height: 60px
+                position: relative
+                float: left
+                margin-left: 16px
+                padding: 20px 0 15px 10px
+                a
+                    width: 100%
+                    height: 100%
+                    position: absolute
+                    top: 0
+                    left: 0
+                    padding: 25px 0 0 10px
+                    font-size: 14px
+                    font-weight: 400
+                    color: $gray
+                    border-radius: 3px
+                    &:hover
+                        background-color: #096ea1
+                        color: $white
+                        .icon-item path
+                            fill: $white
+                    &.active
+                        background-color: #096ea1
+                        color: $white
+                .icon-item
+                    float: left
+                    margin: -5px 10px 0 0
+                    path
+                        fill: $gray-light
+
+        .nav-section-title
+            color: $gray-light
+            ul
+                border-top: none

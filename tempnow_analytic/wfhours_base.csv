@@ -1,0 +1,351 @@
+id,atmospheric_pressure,wind,temp,relative_humidity,last_update,weather,locality_id,date_time,locality_name,region_name,code
+353,1503,54,25,12,NULL,FAKEZAO2,24,"2018-01-07 15:00:00","Assis Brasil",Acre,AC
+1,1020,15,27,70,"Atualizado há poucos segundos","Pancadas de Chuva",5869,"2019-01-06 14:00:00","Águas da Prata","São Paulo",SP
+2,1020,15,30,55,"Atualizado há poucos segundos","Pancadas de Chuva",5869,"2019-01-06 16:00:00","Águas da Prata","São Paulo",SP
+3,1010,8,31,77,"Atualizado há poucos segundos","Pancadas de Chuva",23,"2019-01-06 16:00:00",Acrelândia,Acre,AC
+4,1009,10,32,58,"Atualizado há 7 minutos","Pancadas de Chuva",24,"2019-01-06 16:00:00","Assis Brasil",Acre,AC
+5,1012,24,34,40,"Atualizado há poucos segundos","Chuva Isolada",45,"2019-01-06 16:00:00",Anadia,Alagoas,AL
+6,1012,23,29,58,"Atualizado há poucos segundos","Pancadas de Chuva",151,"2019-01-06 16:00:00",Calçoene,Amapá,AP
+7,1011,6,32,45,"Atualizado há poucos segundos","Pancadas de Chuva",167,"2019-01-06 16:00:00",Amaturá,Amazonas,AM
+8,1010,14,32,27,"Atualizado há poucos segundos",Nublado,232,"2019-01-06 16:00:00",Abaré,Bahia,BA
+9,1010,9,35,23,"Atualizado há poucos segundos",Nublado,692,"2019-01-06 16:00:00",Abaiara,Ceará,CE
+10,1011,19,36,46,"Atualizado há poucos segundos",Chuvas,693,"2019-01-06 16:00:00",Acarape,Ceará,CE
+11,1009,14,28,43,"Atualizado há poucos segundos","Pancadas de Chuva",886,"2019-01-06 16:00:00",Brasília,"Distrito Federal",DF
+12,1014,16,30,57,"Atualizado há poucos segundos","Poucas Nuvens",1000,"2019-01-06 16:00:00","Água Doce do Norte","Espirito Santo",ES
+13,1013,17,29,56,"Atualizado há poucos segundos",Nublado,1003,"2019-01-06 16:00:00",Abadiânia,Goiás,GO
+14,1011,8,33,42,"Atualizado há poucos segundos","Chuva Isolada",1256,"2019-01-06 16:00:00","Afonso Cunha",Maranhão,MA
+15,1012,5,27,73,"Atualizado há poucos segundos","Pancadas de Chuva",1631,"2019-01-06 16:00:00","Água Boa","Mato Grosso",MT
+16,1011,5,29,52,"Atualizado há poucos segundos","Poucas Nuvens",1741,"2019-01-06 16:00:00","Abadia dos Dourados","Minas Gerais",MG
+17,1010,16,30,70,"Atualizado há poucos segundos","Pancadas de Chuva",2645,"2019-01-06 16:00:00",Abaetetuba,Pará,PA
+18,1010,15,36,30,"Atualizado há poucos segundos",Nublado,3022,"2019-01-06 16:00:00","Água Branca",Paraíba,PB
+19,1010,10,37,21,"Atualizado há poucos segundos",Nublado,2797,"2019-01-06 16:00:00",Aguiar,Paraíba,PB
+20,1012,8,30,55,"Atualizado há poucos segundos","Pancadas de Chuva",3024,"2019-01-06 16:00:00",Adrianópolis,Paraná,PR
+21,1010,14,35,30,"Atualizado há poucos segundos",Nublado,3468,"2019-01-06 16:00:00","Afogados da Ingazeira",Pernambuco,PE
+22,1012,6,27,65,"Atualizado há poucos segundos","Pancadas de Chuva",3657,"2019-01-06 16:00:00",Agricolândia,Piauí,PI
+23,1010,21,36,35,"Atualizado há poucos segundos",Nublado,4142,"2019-01-06 16:00:00",Acari,"Rio Grande do Norte",RN
+24,1005,14,30,44,"Atualizado há poucos segundos","Pancadas de Chuva",4311,"2019-01-06 16:00:00",Aceguá,"Rio Grande do Sul",RS
+25,1010,12,24,53,"Atualizado há poucos segundos","Pancadas de Chuva",4816,"2019-01-06 16:00:00","Água Santa","Rio Grande do Sul",RS
+26,1009,12,31,50,"Atualizado há poucos segundos","Pancadas de Chuva",4819,"2019-01-06 16:00:00","Alto Alegre dos Parecis",Rondônia,RO
+27,1010,19,36,31,"Atualizado há poucos segundos","Pancadas de Chuva",4873,"2019-01-06 16:00:00",Amajari,Roraima,RR
+28,1006,12,27,68,"Atualizado há poucos segundos","Pancadas de Chuva",4888,"2019-01-06 16:00:00","Abelardo Luz","Santa Catarina",SC
+29,1011,24,33,19,"Atualizado há poucos segundos",Nublado,149,"2019-01-06 16:00:00","Água Branca",Alagoas,AL
+30,1011,9,31,46,"Atualizado há poucos segundos","Pancadas de Chuva",166,"2019-01-06 16:00:00",Alvarães,Amazonas,AM
+31,1012,10,31,48,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-06 16:00:00","Afonso Cláudio","Espirito Santo",ES
+32,1013,18,29,61,"Atualizado há poucos segundos",Nublado,1002,"2019-01-06 16:00:00","Abadia de Goiás",Goiás,GO
+33,1010,12,31,52,"Atualizado há poucos segundos","Pancadas de Chuva",1274,"2019-01-06 16:00:00",Açailândia,Maranhão,MA
+34,1008,10,34,46,"Atualizado há poucos segundos",Nublado,1475,"2019-01-06 16:00:00",Acorizal,"Mato Grosso",MT
+35,1008,11,33,52,"Atualizado há poucos segundos","Pancadas de Chuva",1740,"2019-01-06 16:00:00","Água Clara","Mato Grosso do Sul",MS
+36,1005,14,33,25,"Atualizado há poucos segundos","Pancadas de Chuva",1632,"2019-01-06 16:00:00",Albuquerque,"Mato Grosso do Sul",MS
+37,1013,15,31,56,"Atualizado há poucos segundos","Pancadas de Chuva",1742,"2019-01-06 16:00:00",Abaeté,"Minas Gerais",MG
+38,1010,9,30,54,"Atualizado há poucos segundos","Pancadas de Chuva",2646,"2019-01-06 16:00:00","Abel Figueiredo",Pará,PA
+39,1013,9,29,63,"Atualizado há poucos segundos",Nublado,3467,"2019-01-06 16:00:00","Abreu e Lima",Pernambuco,PE
+40,1011,8,31,39,"Atualizado há poucos segundos","Chuva Isolada",3656,"2019-01-06 16:00:00",Acauã,Piauí,PI
+41,1013,10,34,63,"Atualizado há poucos segundos","Pancadas de Chuva",3881,"2019-01-06 16:00:00",Abarracamento,"Rio de Janeiro",RJ
+42,1010,18,32,58,"Atualizado há poucos segundos","Chuva Isolada",4153,"2019-01-06 16:00:00",Açu,"Rio Grande do Norte",RN
+43,1009,13,28,54,"Atualizado há poucos segundos","Pancadas de Chuva",4818,"2019-01-06 16:00:00","Alta Floresta do Oeste",Rondônia,RO
+44,1010,18,33,36,"Atualizado há poucos segundos","Pancadas de Chuva",4872,"2019-01-06 16:00:00","Alto Alegre",Roraima,RR
+45,1011,8,25,57,"Atualizado há poucos segundos","Pancadas de Chuva",4887,"2019-01-06 16:00:00","Abdon Batista","Santa Catarina",SC
+46,1011,18,30,64,"Atualizado há poucos segundos","Chuva Isolada",5192,"2019-01-06 16:00:00",Adamantina,"São Paulo",SP
+47,1011,19,28,61,"Atualizado há poucos segundos","Pancadas de Chuva",5193,"2019-01-06 16:00:00",Adolfo,"São Paulo",SP
+48,1012,25,34,54,"Atualizado há poucos segundos","Chuva Isolada",5877,"2019-01-06 16:00:00","Amparo de São Francisco",Sergipe,SE
+49,1012,26,35,36,"Atualizado há poucos segundos","Chuva Isolada",5878,"2019-01-06 16:00:00",Aquidabã,Sergipe,SE
+50,1012,5,30,78,"Atualizado há poucos segundos",Nublado,5953,"2019-01-06 16:00:00",Abreulândia,Tocantins,TO
+51,1011,0,24,87,"Atualizado há poucos segundos","Pancadas de Chuva",5954,"2019-01-06 16:00:00",Aguiarnópolis,Tocantins,TO
+52,1008,5,25,85,"Atualizado há poucos segundos",Nublado,23,"2019-01-06 22:00:00",Acrelândia,Acre,AC
+53,1006,10,27,69,"Atualizado há poucos segundos",Nublado,24,"2019-01-06 22:00:00","Assis Brasil",Acre,AC
+54,1014,23,26,65,"Atualizado há poucos segundos",Chuviscos,149,"2019-01-06 22:00:00","Água Branca",Alagoas,AL
+55,1014,19,25,70,"Atualizado há poucos segundos",Nublado,45,"2019-01-06 22:00:00",Anadia,Alagoas,AL
+56,1013,19,25,82,"Atualizado há poucos segundos","Pancadas de Chuva",150,"2019-01-06 22:00:00",Amapá,Amapá,AP
+57,1013,24,25,80,"Atualizado há poucos segundos","Pancadas de Chuva",151,"2019-01-06 22:00:00",Calçoene,Amapá,AP
+58,1010,5,25,79,"Atualizado há poucos segundos",Chuvas,166,"2019-01-06 22:00:00",Alvarães,Amazonas,AM
+59,1010,3,25,77,"Atualizado há poucos segundos","Pancadas de Chuva",167,"2019-01-06 22:00:00",Amaturá,Amazonas,AM
+60,1015,14,22,65,"Atualizado há poucos segundos","Poucas Nuvens",233,"2019-01-06 22:00:00",Abaíra,Bahia,BA
+61,1013,24,33,48,"Atualizado há poucos segundos",Chuviscos,232,"2019-01-06 22:00:00",Abaré,Bahia,BA
+62,1013,8,25,60,"Atualizado há poucos segundos","Chuva Isolada",692,"2019-01-06 22:00:00",Abaiara,Ceará,CE
+63,1013,13,26,71,"Atualizado há poucos segundos",Chuvas,693,"2019-01-06 22:00:00",Acarape,Ceará,CE
+64,1016,10,22,84,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-06 22:00:00","Afonso Cláudio","Espirito Santo",ES
+65,1013,10,19,82,"Atualizado há poucos segundos","Poucas Nuvens",1002,"2019-01-06 22:00:00","Abadia de Goiás",Goiás,GO
+66,1014,9,18,81,"Atualizado há poucos segundos","Poucas Nuvens",1003,"2019-01-06 22:00:00",Abadiânia,Goiás,GO
+67,1013,9,23,75,"Atualizado há poucos segundos",Chuvas,1274,"2019-01-06 22:00:00",Açailândia,Maranhão,MA
+68,1013,7,24,80,"Atualizado há poucos segundos",Chuvas,1256,"2019-01-06 22:00:00","Afonso Cunha",Maranhão,MA
+69,1008,13,28,65,"Atualizado há poucos segundos",Nublado,1475,"2019-01-06 22:00:00",Acorizal,"Mato Grosso",MT
+70,1012,6,27,77,"Atualizado há poucos segundos",Nublado,1631,"2019-01-06 22:00:00","Água Boa","Mato Grosso",MT
+71,1010,14,26,68,"Atualizado há poucos segundos",Chuvas,1740,"2019-01-06 22:00:00","Água Clara","Mato Grosso do Sul",MS
+72,1004,12,32,39,"Atualizado há poucos segundos",Nublado,1632,"2019-01-06 22:00:00",Albuquerque,"Mato Grosso do Sul",MS
+73,1014,11,21,78,"Atualizado há poucos segundos","Poucas Nuvens",1741,"2019-01-06 22:00:00","Abadia dos Dourados","Minas Gerais",MG
+74,1015,7,24,69,"Atualizado há poucos segundos","Pancadas de Chuva",1742,"2019-01-06 22:00:00",Abaeté,"Minas Gerais",MG
+75,1012,17,24,88,"Atualizado há poucos segundos","Nublado com Chuva",2645,"2019-01-06 22:00:00",Abaetetuba,Pará,PA
+76,1013,8,23,75,"Atualizado há poucos segundos","Pancadas de Chuva",2646,"2019-01-06 22:00:00","Abel Figueiredo",Pará,PA
+77,1014,19,27,62,"Atualizado há poucos segundos","Chuva Isolada",3022,"2019-01-06 22:00:00","Água Branca",Paraíba,PB
+78,1013,14,27,56,"Atualizado há poucos segundos","Chuva Isolada",2797,"2019-01-06 22:00:00",Aguiar,Paraíba,PB
+79,1011,9,22,78,"Atualizado há poucos segundos",Chuvas,3023,"2019-01-06 22:00:00",Abatiá,Paraná,PR
+80,1013,6,23,83,"Atualizado há poucos segundos",Chuvas,3024,"2019-01-06 22:00:00",Adrianópolis,Paraná,PR
+81,1014,19,26,69,"Atualizado há poucos segundos",Nublado,3467,"2019-01-06 22:00:00","Abreu e Lima",Pernambuco,PE
+82,1014,18,25,62,"Atualizado há poucos segundos","Chuva Isolada",3468,"2019-01-06 22:00:00","Afogados da Ingazeira",Pernambuco,PE
+83,1013,9,24,83,"Atualizado há poucos segundos",Chuvas,3657,"2019-01-06 22:00:00",Agricolândia,Piauí,PI
+84,1015,6,23,77,"Atualizado há poucos segundos","Poucas Nuvens",3881,"2019-01-06 22:00:00",Abarracamento,"Rio de Janeiro",RJ
+85,1014,25,27,64,"Atualizado há poucos segundos","Chuva Isolada",4142,"2019-01-06 22:00:00",Acari,"Rio Grande do Norte",RN
+86,1013,28,28,60,"Atualizado há poucos segundos",Nublado,4153,"2019-01-06 22:00:00",Açu,"Rio Grande do Norte",RN
+87,1005,15,30,75,"Atualizado há poucos segundos","Pancadas de Chuva",4311,"2019-01-06 22:00:00",Aceguá,"Rio Grande do Sul",RS
+88,1009,12,23,76,"Atualizado há poucos segundos",Chuvas,4816,"2019-01-06 22:00:00","Água Santa","Rio Grande do Sul",RS
+89,1009,12,24,81,"Atualizado há poucos segundos",Chuvas,4818,"2019-01-06 22:00:00","Alta Floresta do Oeste",Rondônia,RO
+90,1009,11,25,79,"Atualizado há poucos segundos",Chuvas,4819,"2019-01-06 22:00:00","Alto Alegre dos Parecis",Rondônia,RO
+91,1010,10,36,51,"Atualizado há poucos segundos","Pancadas de Chuva",4872,"2019-01-06 22:00:00","Alto Alegre",Roraima,RR
+92,1011,11,30,45,"Atualizado há poucos segundos","Pancadas de Chuva",4873,"2019-01-06 22:00:00",Amajari,Roraima,RR
+93,1011,8,21,82,"Atualizado há poucos segundos","Pancadas de Chuva",4887,"2019-01-06 22:00:00","Abdon Batista","Santa Catarina",SC
+94,1009,7,22,80,"Atualizado há poucos segundos",Nublado,4888,"2019-01-06 22:00:00","Abelardo Luz","Santa Catarina",SC
+96,1012,11,30,75,"Atualizado há poucos segundos","Poucas Nuvens",5193,"2019-01-06 22:00:00",Adolfo,"São Paulo",SP
+97,1015,19,26,70,"Atualizado há poucos segundos",Nublado,5877,"2019-01-06 22:00:00","Amparo de São Francisco",Sergipe,SE
+98,1014,20,26,69,"Atualizado há poucos segundos",Nublado,5878,"2019-01-06 22:00:00",Aquidabã,Sergipe,SE
+99,1013,3,24,82,"Atualizado há poucos segundos","Poucas Nuvens",5953,"2019-01-06 22:00:00",Abreulândia,Tocantins,TO
+100,1013,10,25,72,"Atualizado há poucos segundos",Chuvas,5954,"2019-01-06 22:00:00",Aguiarnópolis,Tocantins,TO
+101,1012,9,22,84,"Atualizado há poucos segundos",Nublado,23,"2019-01-07 11:00:00",Acrelândia,Acre,AC
+102,1011,13,24,71,"Atualizado há poucos segundos",Nublado,24,"2019-01-07 11:00:00","Assis Brasil",Acre,AC
+103,1015,17,22,55,"Atualizado há poucos segundos",Nublado,149,"2019-01-07 11:00:00","Água Branca",Alagoas,AL
+104,1015,17,22,56,"Atualizado há poucos segundos",Nublado,45,"2019-01-07 11:00:00",Anadia,Alagoas,AL
+105,1014,19,24,78,"Atualizado há poucos segundos","Poucas Nuvens",150,"2019-01-07 11:00:00",Amapá,Amapá,AP
+106,1014,23,24,77,"Atualizado há poucos segundos","Poucas Nuvens",151,"2019-01-07 11:00:00",Calçoene,Amapá,AP
+107,1012,2,23,85,"Atualizado há poucos segundos",Nublado,166,"2019-01-07 11:00:00",Alvarães,Amazonas,AM
+108,1012,3,23,84,"Atualizado há poucos segundos",Nublado,167,"2019-01-07 11:00:00",Amaturá,Amazonas,AM
+109,1018,13,17,69,"Atualizado há poucos segundos","Poucas Nuvens",233,"2019-01-07 11:00:00",Abaíra,Bahia,BA
+110,1015,22,22,60,"Atualizado há poucos segundos",Nublado,232,"2019-01-07 11:00:00",Abaré,Bahia,BA
+111,1015,11,22,62,"Atualizado há poucos segundos",Nublado,692,"2019-01-07 11:00:00",Abaiara,Ceará,CE
+112,1014,15,24,61,"Atualizado há poucos segundos",Nublado,693,"2019-01-07 11:00:00",Acarape,Ceará,CE
+113,1014,11,25,58,"Atualizado há poucos segundos","Poucas Nuvens",886,"2019-01-07 11:00:00",Brasília,"Distrito Federal",DF
+114,1017,10,26,74,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-07 11:00:00","Afonso Cláudio","Espirito Santo",ES
+115,1019,12,21,63,"Atualizado há poucos segundos","Poucas Nuvens",1000,"2019-01-07 11:00:00","Água Doce do Norte","Espirito Santo",ES
+116,1016,15,17,63,"Atualizado há poucos segundos",Nublado,1002,"2019-01-07 11:00:00","Abadia de Goiás",Goiás,GO
+117,1016,15,17,59,"Atualizado há poucos segundos",Nublado,1003,"2019-01-07 11:00:00",Abadiânia,Goiás,GO
+118,1014,7,23,84,"Atualizado há poucos segundos",Nublado,1274,"2019-01-07 11:00:00",Açailândia,Maranhão,MA
+119,1014,4,22,82,"Atualizado há poucos segundos",Nublado,1256,"2019-01-07 11:00:00","Afonso Cunha",Maranhão,MA
+120,1012,18,23,67,"Atualizado há poucos segundos",Nublado,1475,"2019-01-07 11:00:00",Acorizal,"Mato Grosso",MT
+121,1013,17,26,79,"Atualizado há poucos segundos",Nublado,1631,"2019-01-07 11:00:00","Água Boa","Mato Grosso",MT
+122,1011,16,30,55,"Atualizado há poucos segundos",Nublado,1740,"2019-01-07 11:00:00","Água Clara","Mato Grosso do Sul",MS
+123,1009,23,27,52,"Atualizado há poucos segundos",Nublado,1632,"2019-01-07 11:00:00",Albuquerque,"Mato Grosso do Sul",MS
+124,1015,18,25,60,"Atualizado há poucos segundos",Nublado,1741,"2019-01-07 11:00:00","Abadia dos Dourados","Minas Gerais",MG
+125,1014,13,23,80,"Atualizado há poucos segundos",Nublado,2645,"2019-01-07 11:00:00",Abaetetuba,Pará,PA
+126,1014,9,23,82,"Atualizado há poucos segundos",Nublado,2646,"2019-01-07 11:00:00","Abel Figueiredo",Pará,PA
+127,1015,16,22,51,"Atualizado há poucos segundos",Nublado,3022,"2019-01-07 11:00:00","Água Branca",Paraíba,PB
+128,1014,17,21,73,"Atualizado há poucos segundos",Nublado,3023,"2019-01-07 11:00:00",Abatiá,Paraná,PR
+129,1014,20,22,68,"Atualizado há poucos segundos",Nublado,3024,"2019-01-07 11:00:00",Adrianópolis,Paraná,PR
+130,1015,6,28,79,"Atualizado há poucos segundos",Nublado,3467,"2019-01-07 11:00:00","Abreu e Lima",Pernambuco,PE
+131,1015,16,21,51,"Atualizado há poucos segundos",Nublado,3468,"2019-01-07 11:00:00","Afogados da Ingazeira",Pernambuco,PE
+132,1014,17,28,53,"Atualizado há poucos segundos",Encoberto,3656,"2019-01-07 11:00:00",Acauã,Piauí,PI
+133,1013,8,25,83,"Atualizado há poucos segundos","Pancadas de Chuva",3657,"2019-01-07 11:00:00",Agricolândia,Piauí,PI
+134,1016,11,21,61,"Atualizado há poucos segundos","Poucas Nuvens",3881,"2019-01-07 11:00:00",Abarracamento,"Rio de Janeiro",RJ
+135,1014,20,23,52,"Atualizado há poucos segundos",Nublado,4142,"2019-01-07 11:00:00",Acari,"Rio Grande do Norte",RN
+136,1013,9,30,57,"Atualizado há poucos segundos",Nublado,4153,"2019-01-07 11:00:00",Açu,"Rio Grande do Norte",RN
+137,1002,18,22,84,"Atualizado há poucos segundos","Nublado com Chuva",4311,"2019-01-07 11:00:00",Aceguá,"Rio Grande do Sul",RS
+138,1010,31,21,64,"Atualizado há poucos segundos",Nublado,4816,"2019-01-07 11:00:00","Água Santa","Rio Grande do Sul",RS
+139,1013,15,22,84,"Atualizado há poucos segundos",Nublado,4818,"2019-01-07 11:00:00","Alta Floresta do Oeste",Rondônia,RO
+140,1013,15,23,81,"Atualizado há poucos segundos",Nublado,4819,"2019-01-07 11:00:00","Alto Alegre dos Parecis",Rondônia,RO
+141,1014,19,24,58,"Atualizado há poucos segundos","Poucas Nuvens",4872,"2019-01-07 11:00:00","Alto Alegre",Roraima,RR
+142,1014,16,25,55,"Atualizado há poucos segundos","Poucas Nuvens",4873,"2019-01-07 11:00:00",Amajari,Roraima,RR
+143,1012,23,25,62,"Atualizado há poucos segundos",Nublado,4887,"2019-01-07 11:00:00","Abdon Batista","Santa Catarina",SC
+144,1010,18,21,-9,"Atualizado há poucos segundos",Encoberto,4888,"2019-01-07 11:00:00","Abelardo Luz","Santa Catarina",SC
+145,1014,22,21,64,"Atualizado há poucos segundos",Nublado,5193,"2019-01-07 11:00:00",Adolfo,"São Paulo",SP
+146,1015,18,22,55,"Atualizado há poucos segundos",Nublado,5877,"2019-01-07 11:00:00","Amparo de São Francisco",Sergipe,SE
+147,1015,17,22,56,"Atualizado há poucos segundos",Nublado,5878,"2019-01-07 11:00:00",Aquidabã,Sergipe,SE
+148,1014,6,22,69,"Atualizado há poucos segundos","Pancadas de Chuva",5953,"2019-01-07 11:00:00",Abreulândia,Tocantins,TO
+149,1014,1,26,82,"Atualizado há poucos segundos",Nublado,5954,"2019-01-07 11:00:00",Aguiarnópolis,Tocantins,TO
+150,1011,13,24,71,"Atualizado há poucos segundos",Nublado,24,"2019-01-07 12:00:00","Assis Brasil",Acre,AC
+151,1015,17,22,55,"Atualizado há poucos segundos",Nublado,149,"2019-01-07 12:00:00","Água Branca",Alagoas,AL
+152,1015,17,22,56,"Atualizado há poucos segundos",Nublado,45,"2019-01-07 12:00:00",Anadia,Alagoas,AL
+153,1014,19,24,78,"Atualizado há poucos segundos","Poucas Nuvens",150,"2019-01-07 12:00:00",Amapá,Amapá,AP
+154,1014,23,24,77,"Atualizado há poucos segundos","Poucas Nuvens",151,"2019-01-07 12:00:00",Calçoene,Amapá,AP
+155,1012,2,23,85,"Atualizado há poucos segundos",Nublado,166,"2019-01-07 12:00:00",Alvarães,Amazonas,AM
+156,1012,3,23,84,"Atualizado há poucos segundos",Nublado,167,"2019-01-07 12:00:00",Amaturá,Amazonas,AM
+157,1018,13,17,69,"Atualizado há poucos segundos","Poucas Nuvens",233,"2019-01-07 12:00:00",Abaíra,Bahia,BA
+158,1015,22,22,60,"Atualizado há poucos segundos",Nublado,232,"2019-01-07 12:00:00",Abaré,Bahia,BA
+159,1015,11,22,62,"Atualizado há poucos segundos",Nublado,692,"2019-01-07 12:00:00",Abaiara,Ceará,CE
+160,1014,15,24,61,"Atualizado há poucos segundos",Nublado,693,"2019-01-07 12:00:00",Acarape,Ceará,CE
+161,1013,10,26,53,"Atualizado há poucos segundos","Poucas Nuvens",886,"2019-01-07 12:00:00",Brasília,"Distrito Federal",DF
+162,1016,11,27,67,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-07 12:00:00","Afonso Cláudio","Espirito Santo",ES
+163,1019,12,21,63,"Atualizado há poucos segundos","Poucas Nuvens",1000,"2019-01-07 12:00:00","Água Doce do Norte","Espirito Santo",ES
+164,1016,15,17,63,"Atualizado há poucos segundos",Nublado,1002,"2019-01-07 12:00:00","Abadia de Goiás",Goiás,GO
+165,1016,15,17,59,"Atualizado há poucos segundos",Nublado,1003,"2019-01-07 12:00:00",Abadiânia,Goiás,GO
+166,1014,7,23,84,"Atualizado há poucos segundos",Nublado,1274,"2019-01-07 12:00:00",Açailândia,Maranhão,MA
+167,1014,4,22,82,"Atualizado há poucos segundos",Nublado,1256,"2019-01-07 12:00:00","Afonso Cunha",Maranhão,MA
+168,1012,18,23,67,"Atualizado há poucos segundos",Nublado,1475,"2019-01-07 12:00:00",Acorizal,"Mato Grosso",MT
+169,1013,17,28,61,"Atualizado há poucos segundos",Nublado,1631,"2019-01-07 12:00:00","Água Boa","Mato Grosso",MT
+170,1011,12,32,51,"Atualizado há poucos segundos",Nublado,1740,"2019-01-07 12:00:00","Água Clara","Mato Grosso do Sul",MS
+171,1009,23,27,52,"Atualizado há poucos segundos",Nublado,1632,"2019-01-07 12:00:00",Albuquerque,"Mato Grosso do Sul",MS
+172,1013,14,28,51,"Atualizado há poucos segundos",Nublado,1741,"2019-01-07 12:00:00","Abadia dos Dourados","Minas Gerais",MG
+173,1014,13,31,37,"Atualizado há poucos segundos","Chuva Isolada",1742,"2019-01-07 12:00:00",Abaeté,"Minas Gerais",MG
+174,1011,18,32,42,"Atualizado há poucos segundos","Pancadas de Chuva",2645,"2019-01-07 12:00:00",Abaetetuba,Pará,PA
+175,1012,15,31,50,"Atualizado há poucos segundos",Nublado,2646,"2019-01-07 12:00:00","Abel Figueiredo",Pará,PA
+176,1011,12,37,18,"Atualizado há poucos segundos","Chuva Isolada",3022,"2019-01-07 12:00:00","Água Branca",Paraíba,PB
+177,1011,9,38,25,"Atualizado há poucos segundos","Chuva Isolada",2797,"2019-01-07 12:00:00",Aguiar,Paraíba,PB
+178,1013,15,28,49,"Atualizado há poucos segundos","Pancadas de Chuva",3023,"2019-01-07 12:00:00",Abatiá,Paraná,PR
+179,1013,19,33,39,"Atualizado há poucos segundos",Nublado,3024,"2019-01-07 12:00:00",Adrianópolis,Paraná,PR
+180,1014,9,30,64,"Atualizado há poucos segundos","Poucas Nuvens",3467,"2019-01-07 12:00:00","Abreu e Lima",Pernambuco,PE
+181,1011,12,36,18,"Atualizado há poucos segundos",Nublado,3468,"2019-01-07 12:00:00","Afogados da Ingazeira",Pernambuco,PE
+182,1013,17,30,46,"Atualizado há poucos segundos","Pancadas de Chuva",3656,"2019-01-07 12:00:00",Acauã,Piauí,PI
+183,1013,6,25,80,"Atualizado há poucos segundos","Pancadas de Chuva",3657,"2019-01-07 12:00:00",Agricolândia,Piauí,PI
+184,1014,9,31,40,"Atualizado há poucos segundos","Poucas Nuvens",3881,"2019-01-07 12:00:00",Abarracamento,"Rio de Janeiro",RJ
+185,1011,19,37,28,"Atualizado há poucos segundos","Chuva Isolada",4142,"2019-01-07 12:00:00",Acari,"Rio Grande do Norte",RN
+186,1012,4,32,51,"Atualizado há poucos segundos","Chuva Isolada",4153,"2019-01-07 12:00:00",Açu,"Rio Grande do Norte",RN
+187,1002,36,28,56,"Atualizado há poucos segundos","Nublado com Chuva",4311,"2019-01-07 12:00:00",Aceguá,"Rio Grande do Sul",RS
+188,1008,26,30,47,"Atualizado há poucos segundos","Pancadas de Chuva",4816,"2019-01-07 12:00:00","Água Santa","Rio Grande do Sul",RS
+189,1012,17,33,49,"Atualizado há poucos segundos","Pancadas de Chuva",4819,"2019-01-07 12:00:00","Alto Alegre dos Parecis",Rondônia,RO
+190,1010,16,35,20,"Atualizado há poucos segundos","Poucas Nuvens",4872,"2019-01-07 12:00:00","Alto Alegre",Roraima,RR
+191,1009,24,23,-9,"Atualizado há poucos segundos",Chuvas,4888,"2019-01-07 12:00:00","Abelardo Luz","Santa Catarina",SC
+192,1011,23,31,39,"Atualizado há poucos segundos","Pancadas de Chuva",5192,"2019-01-07 12:00:00",Adamantina,"São Paulo",SP
+193,1012,23,31,38,"Atualizado há poucos segundos","Chuva Isolada",5193,"2019-01-07 12:00:00",Adolfo,"São Paulo",SP
+194,1013,25,35,40,"Atualizado há poucos segundos","Chuva Isolada",5877,"2019-01-07 12:00:00","Amparo de São Francisco",Sergipe,SE
+195,1013,24,35,38,"Atualizado há poucos segundos","Chuva Isolada",5878,"2019-01-07 12:00:00",Aquidabã,Sergipe,SE
+196,1011,10,31,40,"Atualizado há poucos segundos","Pancadas de Chuva",5953,"2019-01-07 12:00:00",Abreulândia,Tocantins,TO
+197,1014,1,26,82,"Atualizado há poucos segundos","Chuva Isolada",5954,"2019-01-07 12:00:00",Aguiarnópolis,Tocantins,TO
+198,1010,13,30,41,"Atualizado há poucos segundos",Nublado,23,"2019-01-07 13:00:00",Acrelândia,Acre,AC
+199,1009,12,31,47,"Atualizado há poucos segundos",Nublado,24,"2019-01-07 13:00:00","Assis Brasil",Acre,AC
+200,1012,24,37,31,"Atualizado há poucos segundos","Pancadas de Chuva",149,"2019-01-07 13:00:00","Água Branca",Alagoas,AL
+201,1012,25,34,42,"Atualizado há poucos segundos","Chuva Isolada",45,"2019-01-07 13:00:00",Anadia,Alagoas,AL
+202,1012,19,30,60,"Atualizado há poucos segundos","Chuva Isolada",150,"2019-01-07 13:00:00",Amapá,Amapá,AP
+203,1012,23,30,59,"Atualizado há poucos segundos","Chuva Isolada",151,"2019-01-07 13:00:00",Calçoene,Amapá,AP
+204,1010,5,31,61,"Atualizado há poucos segundos","Pancadas de Chuva",166,"2019-01-07 13:00:00",Alvarães,Amazonas,AM
+205,1011,6,32,48,"Atualizado há poucos segundos","Pancadas de Chuva",167,"2019-01-07 13:00:00",Amaturá,Amazonas,AM
+206,1014,15,33,35,"Atualizado há poucos segundos","Poucas Nuvens",233,"2019-01-07 13:00:00",Abaíra,Bahia,BA
+207,1012,16,35,29,"Atualizado há poucos segundos","Pancadas de Chuva",232,"2019-01-07 13:00:00",Abaré,Bahia,BA
+208,1011,10,36,33,"Atualizado há poucos segundos",Nublado,692,"2019-01-07 13:00:00",Abaiara,Ceará,CE
+209,1011,6,34,46,"Atualizado há poucos segundos",Nublado,693,"2019-01-07 13:00:00",Acarape,Ceará,CE
+210,1012,11,27,46,"Atualizado há poucos segundos","Poucas Nuvens",886,"2019-01-07 13:00:00",Brasília,"Distrito Federal",DF
+211,1015,8,27,64,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-07 13:00:00","Afonso Cláudio","Espirito Santo",ES
+212,1016,14,29,39,"Atualizado há poucos segundos","Poucas Nuvens",1000,"2019-01-07 13:00:00","Água Doce do Norte","Espirito Santo",ES
+213,1013,15,31,34,"Atualizado há poucos segundos",Nublado,1002,"2019-01-07 13:00:00","Abadia de Goiás",Goiás,GO
+214,1013,13,31,24,"Atualizado há poucos segundos",Nublado,1003,"2019-01-07 13:00:00",Abadiânia,Goiás,GO
+215,1012,13,29,54,"Atualizado há poucos segundos","Chuva Isolada",1274,"2019-01-07 13:00:00",Açailândia,Maranhão,MA
+216,1012,6,31,54,"Atualizado há poucos segundos",Nublado,1256,"2019-01-07 13:00:00","Afonso Cunha",Maranhão,MA
+217,1011,14,30,42,"Atualizado há poucos segundos","Pancadas de Chuva",1475,"2019-01-07 13:00:00",Acorizal,"Mato Grosso",MT
+218,1013,17,28,61,"Atualizado há poucos segundos","Pancadas de Chuva",1631,"2019-01-07 13:00:00","Água Boa","Mato Grosso",MT
+219,1011,12,31,48,"Atualizado há poucos segundos","Pancadas de Chuva",1740,"2019-01-07 13:00:00","Água Clara","Mato Grosso do Sul",MS
+220,1006,21,38,26,"Atualizado há 4 minutos","Pancadas de Chuva",1632,"2019-01-07 13:00:00",Albuquerque,"Mato Grosso do Sul",MS
+221,1013,14,28,51,"Atualizado há poucos segundos","Poucas Nuvens",1741,"2019-01-07 13:00:00","Abadia dos Dourados","Minas Gerais",MG
+222,1014,13,31,37,"Atualizado há poucos segundos","Chuva Isolada",1742,"2019-01-07 13:00:00",Abaeté,"Minas Gerais",MG
+223,1011,18,32,42,"Atualizado há poucos segundos","Pancadas de Chuva",2645,"2019-01-07 13:00:00",Abaetetuba,Pará,PA
+224,1012,15,31,50,"Atualizado há poucos segundos",Nublado,2646,"2019-01-07 13:00:00","Abel Figueiredo",Pará,PA
+225,1011,12,37,18,"Atualizado há poucos segundos","Chuva Isolada",3022,"2019-01-07 13:00:00","Água Branca",Paraíba,PB
+226,1011,9,38,25,"Atualizado há poucos segundos","Chuva Isolada",2797,"2019-01-07 13:00:00",Aguiar,Paraíba,PB
+227,1013,15,28,49,"Atualizado há poucos segundos","Pancadas de Chuva",3023,"2019-01-07 13:00:00",Abatiá,Paraná,PR
+228,1013,19,33,39,"Atualizado há poucos segundos",Nublado,3024,"2019-01-07 13:00:00",Adrianópolis,Paraná,PR
+229,1014,9,30,64,"Atualizado há poucos segundos","Poucas Nuvens",3467,"2019-01-07 13:00:00","Abreu e Lima",Pernambuco,PE
+230,1011,12,36,18,"Atualizado há poucos segundos",Nublado,3468,"2019-01-07 13:00:00","Afogados da Ingazeira",Pernambuco,PE
+231,1013,17,30,46,"Atualizado há poucos segundos","Pancadas de Chuva",3656,"2019-01-07 13:00:00",Acauã,Piauí,PI
+232,1013,6,26,76,"Atualizado há poucos segundos","Pancadas de Chuva",3657,"2019-01-07 13:00:00",Agricolândia,Piauí,PI
+233,1014,9,31,40,"Atualizado há poucos segundos","Poucas Nuvens",3881,"2019-01-07 13:00:00",Abarracamento,"Rio de Janeiro",RJ
+234,1011,19,37,28,"Atualizado há poucos segundos","Chuva Isolada",4142,"2019-01-07 13:00:00",Acari,"Rio Grande do Norte",RN
+235,1012,4,32,51,"Atualizado há poucos segundos","Chuva Isolada",4153,"2019-01-07 13:00:00",Açu,"Rio Grande do Norte",RN
+236,1002,36,28,56,"Atualizado há poucos segundos","Nublado com Chuva",4311,"2019-01-07 13:00:00",Aceguá,"Rio Grande do Sul",RS
+237,1008,26,30,47,"Atualizado há poucos segundos","Pancadas de Chuva",4816,"2019-01-07 13:00:00","Água Santa","Rio Grande do Sul",RS
+238,1012,17,31,54,"Atualizado há 2 minutos","Pancadas de Chuva",4818,"2019-01-07 13:00:00","Alta Floresta do Oeste",Rondônia,RO
+239,1012,17,33,49,"Atualizado há poucos segundos","Pancadas de Chuva",4819,"2019-01-07 13:00:00","Alto Alegre dos Parecis",Rondônia,RO
+240,1010,16,35,20,"Atualizado há poucos segundos","Poucas Nuvens",4872,"2019-01-07 13:00:00","Alto Alegre",Roraima,RR
+241,1010,15,37,19,"Atualizado há poucos segundos","Poucas Nuvens",4873,"2019-01-07 13:00:00",Amajari,Roraima,RR
+242,1010,19,30,46,"Atualizado há poucos segundos","Pancadas de Chuva",4887,"2019-01-07 13:00:00","Abdon Batista","Santa Catarina",SC
+243,1009,22,21,-9,"Atualizado há poucos segundos",Chuvas,4888,"2019-01-07 13:00:00","Abelardo Luz","Santa Catarina",SC
+244,1011,23,31,39,"Atualizado há poucos segundos","Pancadas de Chuva",5192,"2019-01-07 13:00:00",Adamantina,"São Paulo",SP
+245,1012,23,31,38,"Atualizado há poucos segundos","Chuva Isolada",5193,"2019-01-07 13:00:00",Adolfo,"São Paulo",SP
+246,1013,25,35,40,"Atualizado há poucos segundos","Chuva Isolada",5877,"2019-01-07 13:00:00","Amparo de São Francisco",Sergipe,SE
+247,1013,3,27,79,"Atualizado há poucos segundos","Chuva Isolada",5954,"2019-01-07 13:00:00",Aguiarnópolis,Tocantins,TO
+256,1012,16,35,29,"Atualizado há poucos segundos","Pancadas de Chuva",232,"2019-01-07 15:00:00",Abaré,Bahia,BA
+257,1011,10,36,33,"Atualizado há 12 minutos",Nublado,692,"2019-01-07 15:00:00",Abaiara,Ceará,CE
+258,1011,6,34,46,"Atualizado há poucos segundos",Nublado,693,"2019-01-07 15:00:00",Acarape,Ceará,CE
+259,1011,13,27,46,"Atualizado há poucos segundos","Poucas Nuvens",886,"2019-01-07 15:00:00",Brasília,"Distrito Federal",DF
+260,1014,10,29,55,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-07 15:00:00","Afonso Cláudio","Espirito Santo",ES
+261,1016,14,29,39,"Atualizado há poucos segundos","Poucas Nuvens",1000,"2019-01-07 15:00:00","Água Doce do Norte","Espirito Santo",ES
+262,1013,15,31,34,"Atualizado há poucos segundos",Nublado,1002,"2019-01-07 15:00:00","Abadia de Goiás",Goiás,GO
+263,1013,13,31,24,"Atualizado há poucos segundos",Nublado,1003,"2019-01-07 15:00:00",Abadiânia,Goiás,GO
+264,1012,13,29,54,"Atualizado há poucos segundos","Chuva Isolada",1274,"2019-01-07 15:00:00",Açailândia,Maranhão,MA
+265,1012,6,31,54,"Atualizado há poucos segundos",Nublado,1256,"2019-01-07 15:00:00","Afonso Cunha",Maranhão,MA
+266,1011,14,30,42,"Atualizado há poucos segundos","Pancadas de Chuva",1475,"2019-01-07 15:00:00",Acorizal,"Mato Grosso",MT
+267,1012,19,30,54,"Atualizado há poucos segundos","Pancadas de Chuva",1631,"2019-01-07 15:00:00","Água Boa","Mato Grosso",MT
+268,1009,13,34,41,"Atualizado há poucos segundos","Pancadas de Chuva",1740,"2019-01-07 15:00:00","Água Clara","Mato Grosso do Sul",MS
+269,1006,21,38,26,"Atualizado há poucos segundos","Pancadas de Chuva",1632,"2019-01-07 15:00:00",Albuquerque,"Mato Grosso do Sul",MS
+270,1012,9,29,46,"Atualizado há poucos segundos","Poucas Nuvens",1741,"2019-01-07 15:00:00","Abadia dos Dourados","Minas Gerais",MG
+271,1014,13,31,37,"Atualizado há poucos segundos","Chuva Isolada",1742,"2019-01-07 15:00:00",Abaeté,"Minas Gerais",MG
+272,1011,18,32,42,"Atualizado há poucos segundos","Pancadas de Chuva",2645,"2019-01-07 15:00:00",Abaetetuba,Pará,PA
+273,1012,15,31,50,"Atualizado há poucos segundos",Nublado,2646,"2019-01-07 15:00:00","Abel Figueiredo",Pará,PA
+274,1011,12,37,18,"Atualizado há poucos segundos","Chuva Isolada",3022,"2019-01-07 15:00:00","Água Branca",Paraíba,PB
+275,1011,9,38,25,"Atualizado há poucos segundos","Chuva Isolada",2797,"2019-01-07 15:00:00",Aguiar,Paraíba,PB
+276,1013,15,28,49,"Atualizado há poucos segundos","Pancadas de Chuva",3023,"2019-01-07 15:00:00",Abatiá,Paraná,PR
+277,1013,19,33,39,"Atualizado há poucos segundos",Nublado,3024,"2019-01-07 15:00:00",Adrianópolis,Paraná,PR
+278,1013,11,30,62,"Atualizado há poucos segundos","Poucas Nuvens",3467,"2019-01-07 15:00:00","Abreu e Lima",Pernambuco,PE
+279,1011,12,36,18,"Atualizado há poucos segundos",Nublado,3468,"2019-01-07 15:00:00","Afogados da Ingazeira",Pernambuco,PE
+280,1012,14,34,41,"Atualizado há poucos segundos","Pancadas de Chuva",3656,"2019-01-07 15:00:00",Acauã,Piauí,PI
+281,1012,4,27,71,"Atualizado há poucos segundos","Pancadas de Chuva",3657,"2019-01-07 15:00:00",Agricolândia,Piauí,PI
+282,1014,9,31,40,"Atualizado há poucos segundos","Poucas Nuvens",3881,"2019-01-07 15:00:00",Abarracamento,"Rio de Janeiro",RJ
+283,1011,19,37,28,"Atualizado há poucos segundos","Chuva Isolada",4142,"2019-01-07 15:00:00",Acari,"Rio Grande do Norte",RN
+284,1011,4,34,45,"Atualizado há poucos segundos","Chuva Isolada",4153,"2019-01-07 15:00:00",Açu,"Rio Grande do Norte",RN
+285,1002,36,28,56,"Atualizado há poucos segundos","Nublado com Chuva",4311,"2019-01-07 15:00:00",Aceguá,"Rio Grande do Sul",RS
+286,1008,26,30,47,"Atualizado há poucos segundos","Pancadas de Chuva",4816,"2019-01-07 15:00:00","Água Santa","Rio Grande do Sul",RS
+287,1012,17,31,54,"Atualizado há poucos segundos","Pancadas de Chuva",4818,"2019-01-07 15:00:00","Alta Floresta do Oeste",Rondônia,RO
+288,1012,17,33,49,"Atualizado há poucos segundos","Pancadas de Chuva",4819,"2019-01-07 15:00:00","Alto Alegre dos Parecis",Rondônia,RO
+289,1010,16,35,20,"Atualizado há poucos segundos","Poucas Nuvens",4872,"2019-01-07 15:00:00","Alto Alegre",Roraima,RR
+290,1010,15,37,19,"Atualizado há poucos segundos","Poucas Nuvens",4873,"2019-01-07 15:00:00",Amajari,Roraima,RR
+291,1010,19,30,46,"Atualizado há poucos segundos","Pancadas de Chuva",4887,"2019-01-07 15:00:00","Abdon Batista","Santa Catarina",SC
+292,1008,19,22,-9,"Atualizado há poucos segundos",Chuvas,4888,"2019-01-07 15:00:00","Abelardo Luz","Santa Catarina",SC
+293,1011,23,31,39,"Atualizado há poucos segundos","Pancadas de Chuva",5192,"2019-01-07 15:00:00",Adamantina,"São Paulo",SP
+294,1012,23,31,38,"Atualizado há poucos segundos","Chuva Isolada",5193,"2019-01-07 15:00:00",Adolfo,"São Paulo",SP
+295,1013,25,35,40,"Atualizado há poucos segundos","Chuva Isolada",5877,"2019-01-07 15:00:00","Amparo de São Francisco",Sergipe,SE
+296,1013,24,35,38,"Atualizado há poucos segundos","Chuva Isolada",5878,"2019-01-07 15:00:00",Aquidabã,Sergipe,SE
+297,1011,10,31,40,"Atualizado há poucos segundos","Pancadas de Chuva",5953,"2019-01-07 15:00:00",Abreulândia,Tocantins,TO
+298,1011,3,30,69,"Atualizado há poucos segundos","Chuva Isolada",5954,"2019-01-07 15:00:00",Aguiarnópolis,Tocantins,TO
+248,1009,12,31,47,"Atualizado há poucos segundos",Nublado,24,"2019-01-07 15:00:00","Assis Brasil",Acre,AC
+249,1012,24,37,31,"Atualizado há poucos segundos","Pancadas de Chuva",149,"2019-01-07 15:00:00","Água Branca",Alagoas,AL
+250,1012,25,34,42,"Atualizado há poucos segundos","Chuva Isolada",45,"2019-01-07 15:00:00",Anadia,Alagoas,AL
+251,1012,19,30,60,"Atualizado há poucos segundos","Chuva Isolada",150,"2019-01-07 15:00:00",Amapá,Amapá,AP
+252,1012,23,30,59,"Atualizado há poucos segundos","Chuva Isolada",151,"2019-01-07 15:00:00",Calçoene,Amapá,AP
+253,1010,5,31,61,"Atualizado há poucos segundos","Pancadas de Chuva",166,"2019-01-07 15:00:00",Alvarães,Amazonas,AM
+254,1011,6,32,48,"Atualizado há poucos segundos","Pancadas de Chuva",167,"2019-01-07 15:00:00",Amaturá,Amazonas,AM
+255,1014,15,33,35,"Atualizado há poucos segundos","Poucas Nuvens",233,"2019-01-07 15:00:00",Abaíra,Bahia,BA
+300,1010,13,30,41,"Atualizado há poucos segundos",Nublado,23,"2019-01-07 17:00:00",Acrelândia,Acre,AC
+301,1009,12,31,47,"Atualizado há poucos segundos",Nublado,24,"2019-01-07 17:00:00","Assis Brasil",Acre,AC
+302,1012,24,37,31,"Atualizado há poucos segundos","Pancadas de Chuva",149,"2019-01-07 17:00:00","Água Branca",Alagoas,AL
+303,1012,25,34,42,"Atualizado há poucos segundos","Chuva Isolada",45,"2019-01-07 17:00:00",Anadia,Alagoas,AL
+304,1012,19,30,60,"Atualizado há poucos segundos","Chuva Isolada",150,"2019-01-07 17:00:00",Amapá,Amapá,AP
+305,1012,23,30,59,"Atualizado há poucos segundos","Chuva Isolada",151,"2019-01-07 17:00:00",Calçoene,Amapá,AP
+306,1010,5,31,61,"Atualizado há poucos segundos","Pancadas de Chuva",166,"2019-01-07 17:00:00",Alvarães,Amazonas,AM
+307,1011,6,32,48,"Atualizado há poucos segundos","Pancadas de Chuva",167,"2019-01-07 17:00:00",Amaturá,Amazonas,AM
+308,1014,15,33,35,"Atualizado há poucos segundos","Poucas Nuvens",233,"2019-01-07 17:00:00",Abaíra,Bahia,BA
+309,1012,16,35,29,"Atualizado há poucos segundos","Pancadas de Chuva",232,"2019-01-07 17:00:00",Abaré,Bahia,BA
+310,1011,10,36,33,"Atualizado há poucos segundos",Nublado,692,"2019-01-07 17:00:00",Abaiara,Ceará,CE
+311,1011,6,34,46,"Atualizado há poucos segundos",Nublado,693,"2019-01-07 17:00:00",Acarape,Ceará,CE
+312,1010,9,29,41,"Atualizado há poucos segundos","Poucas Nuvens",886,"2019-01-07 17:00:00",Brasília,"Distrito Federal",DF
+313,1013,14,30,52,"Atualizado há poucos segundos","Poucas Nuvens",901,"2019-01-07 17:00:00","Afonso Cláudio","Espirito Santo",ES
+314,1016,14,29,39,"Atualizado há poucos segundos","Poucas Nuvens",1000,"2019-01-07 17:00:00","Água Doce do Norte","Espirito Santo",ES
+315,1013,15,31,34,"Atualizado há poucos segundos",Nublado,1002,"2019-01-07 17:00:00","Abadia de Goiás",Goiás,GO
+316,1013,13,31,24,"Atualizado há poucos segundos",Nublado,1003,"2019-01-07 17:00:00",Abadiânia,Goiás,GO
+317,1012,13,29,54,"Atualizado há poucos segundos","Chuva Isolada",1274,"2019-01-07 17:00:00",Açailândia,Maranhão,MA
+318,1012,6,31,54,"Atualizado há poucos segundos",Nublado,1256,"2019-01-07 17:00:00","Afonso Cunha",Maranhão,MA
+319,1011,14,30,42,"Atualizado há poucos segundos","Pancadas de Chuva",1475,"2019-01-07 17:00:00",Acorizal,"Mato Grosso",MT
+320,1010,17,30,55,"Atualizado há poucos segundos","Pancadas de Chuva",1631,"2019-01-07 17:00:00","Água Boa","Mato Grosso",MT
+321,1007,12,33,48,"Atualizado há poucos segundos","Pancadas de Chuva",1740,"2019-01-07 17:00:00","Água Clara","Mato Grosso do Sul",MS
+322,1006,21,38,26,"Atualizado há poucos segundos","Pancadas de Chuva",1632,"2019-01-07 17:00:00",Albuquerque,"Mato Grosso do Sul",MS
+323,1011,7,30,45,"Atualizado há poucos segundos","Poucas Nuvens",1741,"2019-01-07 17:00:00","Abadia dos Dourados","Minas Gerais",MG
+324,1014,13,31,37,"Atualizado há poucos segundos","Chuva Isolada",1742,"2019-01-07 17:00:00",Abaeté,"Minas Gerais",MG
+325,1011,18,32,42,"Atualizado há poucos segundos","Pancadas de Chuva",2645,"2019-01-07 17:00:00",Abaetetuba,Pará,PA
+326,1012,15,31,50,"Atualizado há poucos segundos",Nublado,2646,"2019-01-07 17:00:00","Abel Figueiredo",Pará,PA
+327,1011,12,37,18,"Atualizado há poucos segundos","Chuva Isolada",3022,"2019-01-07 17:00:00","Água Branca",Paraíba,PB
+328,1011,9,38,25,"Atualizado há poucos segundos","Chuva Isolada",2797,"2019-01-07 17:00:00",Aguiar,Paraíba,PB
+329,1013,15,28,49,"Atualizado há poucos segundos","Pancadas de Chuva",3023,"2019-01-07 17:00:00",Abatiá,Paraná,PR
+330,1013,19,33,39,"Atualizado há poucos segundos",Nublado,3024,"2019-01-07 17:00:00",Adrianópolis,Paraná,PR
+331,1012,9,28,68,"Atualizado há poucos segundos","Poucas Nuvens",3467,"2019-01-07 17:00:00","Abreu e Lima",Pernambuco,PE
+332,1011,12,36,18,"Atualizado há poucos segundos",Nublado,3468,"2019-01-07 17:00:00","Afogados da Ingazeira",Pernambuco,PE
+333,1010,14,33,36,"Atualizado há poucos segundos","Pancadas de Chuva",3656,"2019-01-07 17:00:00",Acauã,Piauí,PI
+334,1011,4,26,83,"Atualizado há poucos segundos","Pancadas de Chuva",3657,"2019-01-07 17:00:00",Agricolândia,Piauí,PI
+335,1014,9,31,40,"Atualizado há poucos segundos","Poucas Nuvens",3881,"2019-01-07 17:00:00",Abarracamento,"Rio de Janeiro",RJ
+336,1011,19,37,28,"Atualizado há poucos segundos","Chuva Isolada",4142,"2019-01-07 17:00:00",Acari,"Rio Grande do Norte",RN
+337,1009,12,34,48,"Atualizado há poucos segundos","Chuva Isolada",4153,"2019-01-07 17:00:00",Açu,"Rio Grande do Norte",RN
+338,1002,36,28,56,"Atualizado há poucos segundos","Nublado com Chuva",4311,"2019-01-07 17:00:00",Aceguá,"Rio Grande do Sul",RS
+339,1008,26,30,47,"Atualizado há poucos segundos","Pancadas de Chuva",4816,"2019-01-07 17:00:00","Água Santa","Rio Grande do Sul",RS
+340,1012,17,31,54,"Atualizado há poucos segundos","Pancadas de Chuva",4818,"2019-01-07 17:00:00","Alta Floresta do Oeste",Rondônia,RO
+341,1012,17,33,49,"Atualizado há poucos segundos","Pancadas de Chuva",4819,"2019-01-07 17:00:00","Alto Alegre dos Parecis",Rondônia,RO
+342,1010,16,35,20,"Atualizado há poucos segundos","Poucas Nuvens",4872,"2019-01-07 17:00:00","Alto Alegre",Roraima,RR
+343,1010,15,37,19,"Atualizado há poucos segundos","Poucas Nuvens",4873,"2019-01-07 17:00:00",Amajari,Roraima,RR
+344,1010,19,30,46,"Atualizado há poucos segundos","Pancadas de Chuva",4887,"2019-01-07 17:00:00","Abdon Batista","Santa Catarina",SC
+345,1009,16,23,-9,"Atualizado há poucos segundos",Chuvas,4888,"2019-01-07 17:00:00","Abelardo Luz","Santa Catarina",SC
+346,1011,23,31,39,"Atualizado há poucos segundos","Pancadas de Chuva",5192,"2019-01-07 17:00:00",Adamantina,"São Paulo",SP
+347,1012,23,31,38,"Atualizado há poucos segundos","Chuva Isolada",5193,"2019-01-07 17:00:00",Adolfo,"São Paulo",SP
+348,1013,25,35,40,"Atualizado há poucos segundos","Chuva Isolada",5877,"2019-01-07 17:00:00","Amparo de São Francisco",Sergipe,SE
+349,1013,24,35,38,"Atualizado há poucos segundos","Chuva Isolada",5878,"2019-01-07 17:00:00",Aquidabã,Sergipe,SE
+350,1011,10,31,40,"Atualizado há poucos segundos","Pancadas de Chuva",5953,"2019-01-07 17:00:00",Abreulândia,Tocantins,TO
+351,1009,3,31,60,"Atualizado há poucos segundos","Chuva Isolada",5954,"2019-01-07 17:00:00",Aguiarnópolis,Tocantins,TO
