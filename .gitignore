@@ -48,6 +48,8 @@ jspm_packages
 
 # PYTHON
 
+build/tempnow_api_python/id_rsa
+
 dist/*
 # Byte-compiled / optimized / DLL files
 __pycache__/*
