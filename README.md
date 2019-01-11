@@ -68,6 +68,7 @@ export MYSQL_DATABASE=tempnow
 # location and with other credentials, in the script).
 cd build/database_docker/
 sh backup_mysql.sh
+cd ../../
 ```
 
 #### KILL CONTAINERS AND BACKUP MYSQL DATABASE INSIDE OF CONTAINER
@@ -140,6 +141,9 @@ pyenv local tempnow_scraping
 
 # list how your environment was (optional)
 ll ~/.pyenv/versions/tempnow_scraping/bin 
+
+# active
+pyenv activate tempnow_scraping
 
 # Install the dependencies in the local environment
 pip install -r requirements.txt
