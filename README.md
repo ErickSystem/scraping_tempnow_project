@@ -4,20 +4,18 @@
 
 - 1 - tempnow_api_python
 - 2 - tempnow_api_nodejs
-- 3 - tempnow_front_end
-- 4 - database_docker
-- 5 - tempnow_scraping
-- 6 - tempnow_front_end
+- 3 - database_docker
+- 4 - tempnow_scraping
+- 5 - tempnow_analytic
 
 
 ## APPLICATIONS DESCRIPTION
 
 - 1 - API RESTFULL IN PYTHON WITH FLASK
 - 2 - API RESTFULL IN NODEJS WITH EXPRESS
-- 3 - FRONTEND WITH REACTJS
-- 4 - DATABASE MYSQL 5.7
-- 5 - SCRAPING PYTHON WITH THE LIBS: SELENIUM AND BEAUTFIFULSOUP4
-- 6 - ANALYTIC DATA WITH PANDAS, MATPLOLIB
+- 3 - DATABASE MYSQL 5.7
+- 4 - SCRAPING PYTHON WITH THE LIBS: SELENIUM AND BEAUTFIFULSOUP4
+- 5 - ANALYTIC DATA WITH PANDAS, MATPLOLIB
 
 ## REQUIREMENTS
 
@@ -88,25 +86,6 @@ http://localhost:3001/api
 
 # ACCESS API PYTHON
 http://localhost:5000/api/
-```
-
-### SERVICE: 3 - tempnow_front_end
-```bash
-# execute the comand
-cd tempnow_front_end/tempnow/
-
-# dependencies downloads
-npm i
-
-# run
-npm start
-
-# by default the frontend will already load the consuming data from python api below
-# ACCESS API PYTHON
-http://localhost:5000/api/
-
-# to change the route to consume from the nodejs API, follow the command below, and change the port to: 3001
-vim tempnow_front_end/tempnow/public/config.json
 ```
 
 ### SERVICE: 5 - tempnow_front_end
