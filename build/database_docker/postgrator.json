@@ -1,0 +1,10 @@
+{
+    "migrationDirectory": "migrations",
+    "fakeDirectory": "fakes",
+    "driver": "mysql",
+    "host": "database",
+    "port": 3306,
+    "database": "tempnow",
+    "username": "root",
+    "password": "abc123"
+}
