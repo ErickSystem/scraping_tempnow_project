@@ -34,7 +34,7 @@ def mount_links():
         for city in querys.consult_locality_byregionid(state['id']):
             data = dict()
             # The code below serves to limit the total number of cities that will be consulted.
-            if count > 4:
+            if count > 1:
                 break
 
             data['link'] = URL_STATE + '/{0}/{1}'.format(state['code'], util.format_cityname(city['name']))
