@@ -14,8 +14,8 @@
 - 1 - API RESTFULL IN PYTHON WITH FLASK
 - 2 - API RESTFULL IN NODEJS WITH EXPRESS
 - 3 - DATABASE MYSQL 5.7
-- 4 - SCRAPING PYTHON WITH THE LIBS: SELENIUM AND BEAUTFIFULSOUP4
-- 5 - ANALYTIC DATA WITH PANDAS, MATPLOLIB
+- 4 - SCRAPING PYTHON WITH THE LIBS: SELENIUM AND BEAUTIFULSOUP4
+- 5 - ANALYTIC DATA WITH PANDAS, MATPLOTLIB
 
 ## REQUIREMENTS
 
@@ -44,14 +44,16 @@ Have docker-compose installed, preferably the version below or higher:
 
 How install: https://docs.docker.com/compose/install/#install-compose
 
-### SERVICE 4 - LOAD DATA IN DATABASE
+### SERVICE: 3 - database_docker - LOAD DATA IN DATABASE
 
 ```bash
 # first container start
 docker-compose up -d database
 
-# then run the command below to be able to restore the database - need before executing this command,
-# have done the dump using #the script: backup_mysql.sh
+# then run the command below to be able to restore the database - 
+# by default, I have already stored the last backup made on 01/11/2019 in the project.
+# But you can restore another backup from your local machine or from any server,
+# follow the same modeling of this project, using the process described in this session.
 docker-compose exec database data.sh
 ```
 
@@ -86,9 +88,13 @@ http://localhost:3001/api
 
 # ACCESS API PYTHON
 http://localhost:5000/api/
+
+# inside the docs folder, has the two files explaining how to perform the requests.
+requests_api_nodejs.md
+requests_api_python.md
 ```
 
-### SERVICE: 5 - tempnow_front_end
+### SERVICE: 4 - tempnow_scraping
 
 - STEP 1: `Configuring pyenv on your machine, if you have already installed pyenv skip this step.`
 
@@ -140,7 +146,7 @@ source envs/local.env
 python src/main.py
 ```
 
-### SERVICE: 6 - tempnow_analytic
+### SERVICE: 5 - tempnow_analytic
 
 ```bash
 
