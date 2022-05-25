@@ -2,6 +2,6 @@ git+ssh://git@github.com/ErickSystem/lib_formatter_logger.git@1.0.0
 git+ssh://git@github.com/ErickSystem/lib_connection_sqldb.git@1.0.1
 requests==2.18.4
 flask==1.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 flask-cors==3.0.6
 flask_restful==0.3.6
